@@ -318,3 +318,8 @@ main{
     width: 100px;
     cursor: pointer;
 }
+
+.footer-box{
+    height: 80px;
+    background-color: var(--primary-color);
+}
